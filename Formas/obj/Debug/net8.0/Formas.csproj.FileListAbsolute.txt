@@ -1,0 +1,22 @@
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Formas\Formas\obj\Debug\net8.0\Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Formas\Formas\obj\Debug\net8.0\Formas.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Formas\Formas\obj\Debug\net8.0\Formas.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Anexos\Documentos\2025-1 ulbra\LABORATORIO DE PROGRAMACAO\Formas\Formas\obj\Debug\net8.0\Formas.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\Formas\obj\Debug\net8.0\Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\Formas\obj\Debug\net8.0\Formas.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\Formas\obj\Debug\net8.0\Formas.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\Formas\obj\Debug\net8.0\Formas.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\bin\Debug\net8.0\Formas.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\bin\Debug\net8.0\Formas.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\bin\Debug\net8.0\Formas.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\bin\Debug\net8.0\Formas.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\bin\Debug\net8.0\Formas.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\refint\Formas.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\Formas.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\Formas\Formas\obj\Debug\net8.0\ref\Formas.dll

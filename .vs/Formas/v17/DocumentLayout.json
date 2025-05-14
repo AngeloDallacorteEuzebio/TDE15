@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\formas\\formas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|solutionrelative:formas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\formas\\formas\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|solutionrelative:formas\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\formas\\formas\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|solutionrelative:formas\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\formas\\formas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF60D75D-A1DE-46FC-8E51-3DFBE35656EC}|Formas\\Formas.csproj|solutionrelative:formas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Formas\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\Retangulo.cs",
+              "RelativeToolTip": "Formas\\Retangulo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:42:41.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\Circulo.cs",
+              "RelativeDocumentMoniker": "Formas\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\Circulo.cs",
+              "RelativeToolTip": "Formas\\Circulo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:34:12.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "Formas\\FormaGeometrica.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\FormaGeometrica.cs",
+              "RelativeToolTip": "Formas\\FormaGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:26:34.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\Program.cs",
+              "RelativeDocumentMoniker": "Formas\\Program.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\Formas\\Formas\\Program.cs",
+              "RelativeToolTip": "Formas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:24:41.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
